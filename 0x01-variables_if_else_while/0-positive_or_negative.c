@@ -4,11 +4,9 @@
 /*
  * main - prints out
  *
- * Return:value (success)
+ * Return: value (success)
  */
-/* more headers goes there */
 
-/* betty style doc for function main goes there */
 int main(void)
 {
 	int n;
