@@ -6,6 +6,6 @@
  */
 int main(void)
 {
-	putc("\ "Programming is like building of a multiligual puzzle");
+	puts("Programming is like building of a multiligual puzzle");
 	return (0);
 }
