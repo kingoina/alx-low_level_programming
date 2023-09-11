@@ -1,5 +1,11 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+/*
+ * main - prints out
+ *
+ * Return:value (success)
+ */
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
